@@ -1,0 +1,185 @@
+Line 1
+------
+Syllables:
+It-was-the-best-of-times-,-it-was-the-worst-of-times-,-it-was-the-age-of-wis-dom-,-it-was-the-age-of-fool-ish-ness-,-it-was-the-epoch-of-be-lief-,-it-was-the-epoch-of-in-creduli-ty-,-it-was-the-sea-son-of-Light-,-it-was-the-sea-son-of-Dark-ness-,-it-was-the-spring-of-hope-,-it-was-the-win-ter-of-de-spair-,-we-had-ev-ery-thing-be-fore-us-,-we-had-noth-ing-be-fore-us-,-we-were-all-go-ing-di-rect-to-Heav-en-,-we-were-all-go-ing-di-rect-the-oth-er-way-.
+Total: 121
+
+Words:
+It-was-the-best-of-times-,-it-was-the-worst-of-times-,-it-was-the-age-of-wisdom-,-it-was-the-age-of-foolishness-,-it-was-the-epoch-of-belief-,-it-was-the-epoch-of-incredulity-,-it-was-the-season-of-Light-,-it-was-the-season-of-Darkness-,-it-was-the-spring-of-hope-,-it-was-the-winter-of-despair-,-we-had-everything-before-us-,-we-had-nothing-before-us-,-we-were-all-going-direct-to-Heaven-,-we-were-all-going-direct-the-other-way-.
+Total: 99
+
+Sentences:
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way.
+Total: 1
+
+Total: 2.950
+
+
+Line 2
+------
+Syllables:
+in-my-younger-and-more-vul-ner-a-ble-years-my-fa-ther-gave-me-some-ad-vice-that-i-'ve-been-turn-ing-over-in-my-mind-ev-er-since-.-when-ev-er-you-feel-like-crit-i-cis-ing-any-one-,-he-told-me-,-just-re-mem-ber-that-all-the-peo-ple-in-this-world-haven-'t-had-the-ad-van-tages-that-you-'ve-had-.
+Total: 73
+
+Words:
+in-my-younger-and-more-vulnerable-years-my-father-gave-me-some-advice-that-i-'ve-been-turning-over-in-my-mind-ever-since-.-whenever-you-feel-like-criticising-any-one-,-he-told-me-,-just-remember-that-all-the-people-in-this-world-haven-'t-had-the-advantages-that-you-'ve-had-.
+Total: 56
+
+Sentences:
+in my younger and more vulnerable years my father gave me some advice that i've been turning over in my mind ever since.-whenever you feel like criticising any one, he told me, just remember that all the people in this world haven't had the advantages that you've had.
+Total: 2
+
+Total: 68.133
+
+
+Line 3
+------
+Syllables:
+once-up-on-a-time-there-was-a-boy-who-loved-a-girl-,-and-her-laugh-ter-was-a-ques-tion-he-want-ed-to-spend-his-whole-life-an-swer-ing-.
+Total: 34
+
+Words:
+once-upon-a-time-there-was-a-boy-who-loved-a-girl-,-and-her-laughter-was-a-question-he-wanted-to-spend-his-whole-life-answering-.
+Total: 28
+
+Sentences:
+once upon a time there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.
+Total: 1
+
+Total: 75.686
+
+
+Line 4
+------
+Syllables:
+She-was-lost-in-her-long-ing-to-un-der-stand-.
+Total: 12
+
+Words:
+She-was-lost-in-her-longing-to-understand-.
+Total: 9
+
+Sentences:
+She was lost in her longing to understand.
+Total: 1
+
+Total: 84.900
+
+
+Line 5
+------
+Syllables:
+There-are-dark-ness-es-in-life-and-there-are-lights-,-and-you-are-one-of-the-lights-,-the-light-of-all-lights-.
+Total: 26
+
+Words:
+There-are-darknesses-in-life-and-there-are-lights-,-and-you-are-one-of-the-lights-,-the-light-of-all-lights-.
+Total: 24
+
+Sentences:
+There are darknesses in life and there are lights, and you are one of the lights, the light of all lights.
+Total: 1
+
+Total: 90.825
+
+
+Line 6
+------
+Syllables:
+To-mor-row-is-al-ways-fresh-,-with-no-mis-takes-in-it-yet-.
+Total: 16
+
+Words:
+Tomorrow-is-always-fresh-,-with-no-mistakes-in-it-yet-.
+Total: 12
+
+Sentences:
+Tomorrow is always fresh, with no mistakes in it yet.
+Total: 1
+
+Total: 81.855
+
+
+Line 7
+------
+Syllables:
+Ev-ery-thing-was-beau-ti-ful-and-noth-ing-hurt-.
+Total: 12
+
+Words:
+Everything-was-beautiful-and-nothing-hurt-.
+Total: 7
+
+Sentences:
+Everything was beautiful and nothing hurt.
+Total: 1
+
+Total: 54.701
+
+
+Line 8
+------
+Syllables:
+It-'s-the-pos-si-bil-i-ty-of-hav-ing-a-dream-come-true-that-makes-life-in-ter-est-ing-.
+Total: 23
+
+Words:
+It-'s-the-possibility-of-having-a-dream-come-true-that-makes-life-interesting-.
+Total: 15
+
+Sentences:
+It's the possibility of having a dream come true that makes life interesting.
+Total: 1
+
+Total: 61.890
+
+
+Line 9
+------
+Syllables:
+I-can-not-fix-on-the-hour-,-or-the-spot-,-or-the-look-or-the-words-,-which-laid-the-foun-da-tion-.-It-is-too-long-ago-.-I-was-in-the-mid-dle-be-fore-I-knew-that-I-had-be-gun-.
+Total: 48
+
+Words:
+I-cannot-fix-on-the-hour-,-or-the-spot-,-or-the-look-or-the-words-,-which-laid-the-foundation-.-It-is-too-long-ago-.-I-was-in-the-middle-before-I-knew-that-I-had-begun-.
+Total: 42
+
+Sentences:
+I cannot fix on the hour, or the spot, or the look or the words, which laid the foundation.-It is too long ago.-I was in the middle before I knew that I had begun.
+Total: 3
+
+Total: 95.939
+
+
+Line 10
+-------
+Syllables:
+Do-I-love-you-?-My-God-,-if-your-love-were-a-grain-of-sand-,-mine-would-be-a-uni-verse-of-beach-es-.
+Total: 27
+
+Words:
+Do-I-love-you-?-My-God-,-if-your-love-were-a-grain-of-sand-,-mine-would-be-a-universe-of-beaches-.
+Total: 25
+
+Sentences:
+Do I love you?-My God, if your love were a grain of sand, mine would be a universe of beaches.
+Total: 2
+
+Total: 102.780
+
+
+Line 11
+-------
+Syllables:
+Love-is-the-long-ing-for-the-half-of-our-selves-we-have-lost-.
+Total: 15
+
+Words:
+Love-is-the-longing-for-the-half-of-ourselves-we-have-lost-.
+Total: 13
+
+Sentences:
+Love is the longing for the half of ourselves we have lost.
+Total: 1
+
+Total: 96.025
